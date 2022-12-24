@@ -1,0 +1,60 @@
+﻿
+
+body{
+    direction:initial;    
+    background:#000;
+}
+
+.T_M {
+    display: inline-block;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    max-height: none;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vasat_A {
+
+    width: 805px;
+    height: 440px;
+    background:#808080;
+    margin: 5px;
+    margin: 6px 6px 6px 6px;
+    border-radius: 5%;
+}
+
+.vasat_B {
+    width: 260px;
+    height: 140px;
+    background:#808080;
+    border-radius: 5%;
+    margin: 6px 6px 6px 6px;
+    display: inline-block;
+}
+.left_B {
+    width: 260px;
+    height: 140px;
+    background: #808080;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5%;
+}
+.right_A {
+ width: 260px;
+    height: 290px;
+    background:#808080 ;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5%;
+}
+.right_B {
+     width: 260px;
+    height: 140px;
+    background: #808080;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5%;
+}
